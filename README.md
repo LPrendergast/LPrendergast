@@ -1,11 +1,12 @@
-Software Engineer, React Native / Rails / GraphQL
+Hello, I'm Luke, a software developer from 🇮🇪 Ireland, currently living in London.
 
-Full Stack Developer with a BSc in Music, Media & Performance Technology.
-Dev recruiter turned dev.
+I'm a Full Stack Developer with a BSc in Music, Media & Performance Technology. 🎸 🎶
+Dev recruiter in the past, Dev now.
 
-Moved from Ireland in 2018 to pursue my career into tech.
+Moved from Ireland in 2018 to pursue my career into tech. 💾
 Still produce some tunes on the side.
 
-Currently building mobile applications.
+Currently building mobile applications. 📳
 
-React | Redux | React Native | Node.js | Javascript | Ruby | Rails | HTML | CSS | SQL | GraphQL | Apollo 
+Current stack: 
+React | Redux | React Native | Javascript | Ruby | Rails | HTML | CSS | GraphQL | Apollo 
