@@ -1,7 +1,8 @@
 Hello, I'm Luke, a software developer from 🇮🇪 Ireland, currently living in London. Currently working at Aschom Technologies with React Native.
 
 I'm a Full Stack Developer with a BSc in Music, Media & Performance Technology. 🎸 🎶
-Dev recruiter in the past, Dev now.
+
+Dev recruiter in the past, now a dev.
 
 Moved from Ireland in 2018 to pursue my career into tech. 💾
 
