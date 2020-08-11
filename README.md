@@ -1,4 +1,4 @@
-Hello, I'm Luke, a software developer from 🇮🇪 Ireland, currently living in London.
+Hello, I'm Luke, a software developer from 🇮🇪 Ireland, currently living in London. Currently working at Aschom Technologies with React Native.
 
 I'm a Full Stack Developer with a BSc in Music, Media & Performance Technology. 🎸 🎶
 Dev recruiter in the past, Dev now.
@@ -10,7 +10,7 @@ Still produce some tunes on the side. 🎧
 Currently building mobile applications. 📳
 
 Current stack: 
-React | Redux | React Native | Javascript | Ruby | Rails | HTML | CSS | GraphQL | Apollo 
+React | Redux | React Native | Javascript | Ruby | Rails | Styled Components | GraphQL | Apollo | XML |
 
 
 <p align="center">
