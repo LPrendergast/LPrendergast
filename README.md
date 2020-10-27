@@ -4,7 +4,7 @@ I'm a Full Stack Developer with a BSc in Music, Media & Performance Technology. 
 
 Dev recruiter in the past, now a dev.
 
-Moved from Ireland in 2018 to pursue my career into tech. 💾
+Moved from Ireland in 2018 to pursue my career into tech. 
 
 Still produce some tunes on the side. 🎧
 
