@@ -11,7 +11,7 @@ Still produce some tunes on the side. 🎧
 Currently building mobile applications. 📳
 
 Current stack: 
-React | Redux | React Native | Javascript | Ruby | Rails | Styled Components | GraphQL | Apollo | XML |
+React | Redux | React Native | Javascript | Ruby | Rails | Styled Components | GraphQL | Apollo | SOAP |
 
 
 <p align="center">
